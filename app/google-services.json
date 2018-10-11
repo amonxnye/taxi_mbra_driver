@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "554340502357",
+    "firebase_url": "https://coolboda-f5ff9.firebaseio.com",
+    "project_id": "coolboda-f5ff9",
+    "storage_bucket": "coolboda-f5ff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554340502357:android:701eb7866444c1cb",
+        "android_client_info": {
+          "package_name": "com.hypertrack.uber_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554340502357-c02qk8hcslc1nd7ojgl42j5cj3iqujeh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hypertrack.uber_driver",
+            "certificate_hash": "210be80d9258158b9a0d895ccc28666738eeb536"
+          }
+        },
+        {
+          "client_id": "554340502357-d4s1arakcl9j49gr11np208crocm19qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCErHGF6TLrweYGvqbtippOh_RZGqSiI18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554340502357-d4s1arakcl9j49gr11np208crocm19qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554340502357:android:38b48c19e18ec774",
+        "android_client_info": {
+          "package_name": "com.rupert.coolboda.coolboda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554340502357-7b9h53s3fr1ok5n8n4bvhsq8ja1n7vhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rupert.coolboda.coolboda",
+            "certificate_hash": "210be80d9258158b9a0d895ccc28666738eeb536"
+          }
+        },
+        {
+          "client_id": "554340502357-d4s1arakcl9j49gr11np208crocm19qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCErHGF6TLrweYGvqbtippOh_RZGqSiI18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554340502357-d4s1arakcl9j49gr11np208crocm19qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554340502357:android:6602757b2c279559",
+        "android_client_info": {
+          "package_name": "com.rupert.coolbodaclient.coolbodaclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554340502357-obr3gpben3ecc83loi5e8soqg7fhv0k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rupert.coolbodaclient.coolbodaclient",
+            "certificate_hash": "210be80d9258158b9a0d895ccc28666738eeb536"
+          }
+        },
+        {
+          "client_id": "554340502357-d4s1arakcl9j49gr11np208crocm19qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCErHGF6TLrweYGvqbtippOh_RZGqSiI18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554340502357-d4s1arakcl9j49gr11np208crocm19qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
